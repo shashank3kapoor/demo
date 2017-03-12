@@ -22,7 +22,6 @@ include_once $root."/comcls/Menu.php";
 	</head>
 	
 	<body>
-        <?php include_once $root."/comcls/incl_menu.php"; ?>
 	  <div class="form_container container_12" id="divheadtitle">
 	    <br><br>
 	    <center>
